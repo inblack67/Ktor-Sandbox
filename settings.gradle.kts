@@ -1,0 +1,1 @@
+rootProject.name = "app.vercel.inblack67.sandbox"
